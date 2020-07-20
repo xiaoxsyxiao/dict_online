@@ -1,3 +1,4 @@
+# 你好
 import socket
 
 ADDR = ("127.0.0.1", 7777)
